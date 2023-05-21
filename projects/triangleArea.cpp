@@ -18,7 +18,7 @@ int main (){
 
     triangleArea = (bTriangle * hTriangle)/2 ;
 
-    cout << "Your mesauraments are {height = " << hTriangle << " base = " << bTriangle << "} " << endl
+    cout << "Your mesauraments are {height = " << hTriangle << ", base = " << bTriangle << "} " << endl
          << "Area of your triangle is == " << triangleArea  ;
 
     cout << endl << "*-*-*-*-*-*-*" << endl;
