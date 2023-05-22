@@ -9,7 +9,7 @@ int main(){
 
     string wordInp , reversedInp;
 
-    cout << "Enter a word: ";
+    cout << "Enter a word or sentence: ";
     getline(cin,wordInp);
 
 
